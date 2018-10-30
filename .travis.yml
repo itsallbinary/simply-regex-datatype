@@ -1,0 +1,10 @@
+language: java
+sudo: false
+
+script: mvn clean package
+install: /bin/true
+
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
+
+

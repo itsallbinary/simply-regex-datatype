@@ -53,4 +53,3 @@ String regex = regex().anywhereInText().def(date().withDateFormat("MM/dd/yyyy").
 This will build complex regex - regex = ((0{0,1}[1-9]|[1-1][0-2]|))\Q/\E((0{0,1}[1-9]|[1-2][0-9]|[3-3][0-1]|))\Q/\E([\d]{4})
 
 
-

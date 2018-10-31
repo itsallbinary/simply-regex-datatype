@@ -11,7 +11,8 @@ User Guide - http://itsallbinary.com/project-simply-regex/simply-regex-user-guid
 
 More Details - Refer to http://itsallbinary.com/project-simply-regex/ for more details
 
-# [Simply Regex Quick Start](http://itsallbinary.com/project-simply-regex/simply-regex-quick-start/)
+## [Simply Regex Quick Start](http://itsallbinary.com/project-simply-regex/simply-regex-quick-start/)
+## [Simply Regex Extensions](http://itsallbinary.com/project-simply-regex/simply-regex-extensions/)
 
 ### Number Datatype Example:
 This is example of simple way of creating number regex.
